@@ -1,0 +1,8 @@
+1. create environment
+    a) python -m venv .venv
+2. activate environment
+    b) . .\.venv\Scripts\activate
+    Here you can install everything :)
+3. start project
+    c) django-admin startproject {{name}} .
+https://www.youtube.com/watch?v=i5JykvxUk_A&ab_channel=CalebCurry
